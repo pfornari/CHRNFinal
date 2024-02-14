@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "title": "Semillas de trigo premium",
+      "description": "Semillas seleccionadas de trigo para siembra, alta calidad genética, 50kg.",
+      "price": 4500,
+      "brand": "AgroSemillas",
+      "category": "Semillas",
+      "rating": 4.8,
+      "stock": 100,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+  },
+    {
+      "id": 2,
+      "title": "Fertilizante Triple 15",
+      "description": "Fertilizante granulado balanceado, 50kg, para todo tipo de cultivos.",
+      "price": 3200,
+      "brand": "NutriPlant",
+      "category": "Fertilizantes",
+      "rating": 4.6,
+      "stock": 150,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 3,
+      "title": "Herbicida Broadkill",
+      "description": "Herbicida de amplio espectro, efectivo contra malezas de hoja ancha, 20L.",
+      "price": 7500,
+      "brand": "AgroKill",
+      "category": "Herbicidas",
+      "rating": 4.7,
+      "stock": 80,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 4,
+      "title": "Alimento balanceado para ganado",
+      "description": "Mezcla nutricional completa para ganado bovino, 40kg.",
+      "price": 2900,
+      "brand": "GanadoFeed",
+      "category": "Alimento para animales",
+      "rating": 4.5,
+      "stock": 200,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 5,
+      "title": "Pala de mano para siembra",
+      "description": "Pala de mano robusta para labores de siembra y jardinería.",
+      "price": 800,
+      "brand": "AgroTools",
+      "category": "Herramientas",
+      "rating": 4.9,
+      "stock": 50,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 6,
+      "title": "Rollo de alambre de púas",
+      "description": "Alambre de púas para cercos, 200 metros, alta resistencia.",
+      "price": 4200,
+      "brand": "SecureFence",
+      "category": "Herramientas",
+      "rating": 4.6,
+      "stock": 90,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 7,
+      "title": "Malla sombra para invernadero",
+      "description": "Malla sombra 70% oscurecimiento, ideal para invernaderos, 10x20m.",
+      "price": 10500,
+      "brand": "GreenCover",
+      "category": "Herramientas",
+      "rating": 4.8,
+      "stock": 40,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 8,
+      "title": "Tanque de agua 1000L",
+      "description": "Tanque de almacenamiento de agua, 1000 litros, resistente a UV.",
+      "price": 8500,
+      "brand": "AquaStore",
+      "category": "Herramientas",
+      "rating": 4.7,
+      "stock": 60,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 9,
+      "title": "Sistema de riego por goteo",
+      "description": "Kit de riego por goteo para 1 hectárea, incluye mangueras y goteros.",
+      "price": 12500,
+      "brand": "DripTech",
+      "category": "Herramientas",
+      "rating": 4.9,
+      "stock": 70,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    },
+    {
+      "id": 10,
+      "title": "Vacuna bovina contra la fiebre aftosa",
+      "description": "Vacuna para prevenir la fiebre aftosa en ganado, dosis para 50 animales.",
+      "price": 22000,
+      "brand": "VetHealth",
+      "category": "Salud animal",
+      "rating": 4.85,
+      "stock": 120,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+    }
+  ]
