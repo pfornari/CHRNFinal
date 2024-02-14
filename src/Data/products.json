@@ -8,9 +8,9 @@
       "category": "Semillas",
       "rating": 4.8,
       "stock": 100,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
   },
     {
       "id": 2,
@@ -21,9 +21,9 @@
       "category": "Fertilizantes",
       "rating": 4.6,
       "stock": 150,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 3,
@@ -34,9 +34,9 @@
       "category": "Herbicidas",
       "rating": 4.7,
       "stock": 80,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 4,
@@ -47,9 +47,9 @@
       "category": "Alimento para animales",
       "rating": 4.5,
       "stock": 200,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 5,
@@ -60,9 +60,9 @@
       "category": "Herramientas",
       "rating": 4.9,
       "stock": 50,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 6,
@@ -73,9 +73,9 @@
       "category": "Herramientas",
       "rating": 4.6,
       "stock": 90,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 7,
@@ -86,9 +86,9 @@
       "category": "Herramientas",
       "rating": 4.8,
       "stock": 40,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 8,
@@ -99,9 +99,9 @@
       "category": "Herramientas",
       "rating": 4.7,
       "stock": 60,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 9,
@@ -112,9 +112,9 @@
       "category": "Herramientas",
       "rating": 4.9,
       "stock": 70,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     },
     {
       "id": 10,
@@ -125,8 +125,8 @@
       "category": "Salud animal",
       "rating": 4.85,
       "stock": 120,
-      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp",
+      "thumbnail": "",
       "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_953533-MLA70371645216_072023-O.webp"]
+        ""]
     }
   ]
